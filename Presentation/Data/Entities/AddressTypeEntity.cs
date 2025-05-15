@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Presentation.Data;
+namespace Presentation.Data.Entities;
 
 public class AddressTypeEntity
 {
